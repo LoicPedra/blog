@@ -3,7 +3,7 @@ title:       Blog
 email:       
 author:      Loïc
 description: ""
-baseurl:     ""
+baseurl:     "/blog"
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 header_pages:
